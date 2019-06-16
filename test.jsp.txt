@@ -2,7 +2,10 @@
 <title>Å×½ºÆ®</title>
 <head></head>
 <body><p> hello, world</p>
-
+<table>
+<tr><th></th></tr>
+<tr><td></td></tr>
+</table>
 </body>
 
 </html>
